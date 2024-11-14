@@ -1,1 +1,0 @@
-# PA28CP-Projeto-De-Algoritmos
